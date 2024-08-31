@@ -1,0 +1,8 @@
+.color{
+    background: linear-gradient(rgb(203, 1, 186), rgb(167, 4, 255));
+}
+.formel {
+    width: 100%;
+    border-color: rgb(221, 27, 255);
+    border-radius: 7px;
+  }
