@@ -15,7 +15,6 @@ async function fetchQuote() {
         `;
     } catch (error) {
         console.error('Error fetching the quote:', error);
-        alert('There was an issue fetching the quote. Please try again later.');
     }
 }
 
@@ -42,7 +41,6 @@ async function searchQuote() {
 
     } catch (error) {
         console.error('Error fetching the search results:', error);
-        alert('There was an issue fetching the quote. Please try again later.');
     }
 }
 
